@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/iagoroque/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoroque&layout=compact&theme=github_dark&hide_border=true"/></a>
+<a href="https://github.com/iagoroque/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoroque&card_width=500&layout=compact&theme=transparent&hide_border=true"/></a>
